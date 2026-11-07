@@ -31,17 +31,7 @@ engineering requirements into reliable tools.
 
 ## Engineering Focus
 
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<img src="assets/software.svg" width="64" alt="Software application illustration"/>`{=html}
-
+<img src="assets/software.svg" width="64" alt="Software application illustration"/>
 ### Software Development
 
 -   C# and .NET Framework
@@ -51,13 +41,7 @@ engineering requirements into reliable tools.
 -   Data visualization and analysis
 -   Debugging and application reliability
 
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<img src="assets/embedded.svg" width="64" alt="Embedded electronics illustration"/>`{=html}
+<img src="assets/embedded.svg" width="64" alt="Embedded electronics illustration"/>
 
 ### Embedded & Electronics
 
@@ -69,19 +53,7 @@ engineering requirements into reliable tools.
 -   Analog and digital electronics
 -   Datasheet analysis and component selection
 
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<img src="assets/robot-arm.svg" width="64" alt="Industrial robotic arm illustration"/>`{=html}
+<img src="assets/robot-arm.svg" width="64" alt="Industrial robotic arm illustration"/>
 
 ### Robotics & Mechanical Design
 
@@ -92,13 +64,7 @@ engineering requirements into reliable tools.
 -   CNC machining fundamentals
 -   Exposure to waterjet and wire-cut manufacturing
 
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<img src="assets/engineering.svg" width="64" alt="Engineering tools illustration"/>`{=html}
+<img src="assets/engineering.svg" width="64" alt="Engineering tools illustration"/>
 
 ### Engineering Practice
 
@@ -109,15 +75,6 @@ engineering requirements into reliable tools.
 -   Iterative development and testing
 -   Cross-disciplinary problem solving
 
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
 ## Professional Experience
 
 ### Software Developer --- Behpajooh
@@ -151,7 +108,6 @@ software and hardware.
 
 ## Technology & Tools
 
-::: {align="center"}
 ![C#](https://img.shields.io/badge/C%23-6828B8?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-2878C8?style=flat-square&logo=windows&logoColor=white)
@@ -162,7 +118,7 @@ Designer](https://img.shields.io/badge/Altium_Designer-6B55A5?style=flat-square&
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-C74646?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-EA6A42?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-303846?style=flat-square&logo=github&logoColor=white)
-:::
+
 
 ## How I Think About Engineering
 
@@ -184,15 +140,10 @@ product.
 
 ## Let's Connect
 
-::: {align="center"}
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-2878C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_my_work-512BD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-**Email:** `your.email@example.com`
-
-`<br/>`{=html}
-
-`<img src="assets/industrial-footer.svg" alt="Industrial engineering line illustration" width="90%"/>`{=html}
+**Email:** `keighobadiamir@gmail.com`
+<img src="assets/industrial-footer.svg" alt="Industrial engineering line illustration" width="90%"/>
 
 **DESIGN · BUILD · CONNECT · IMPROVE**
-:::
